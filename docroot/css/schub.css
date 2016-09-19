@@ -1,0 +1,10 @@
+.meeting-minutes-portlet {
+	
+	.control-group {
+		margin-bottom:10px !important;
+	}
+	
+	ul.yui3-aclist-list {
+		margin:0 !important; padding:0;
+	}
+}
